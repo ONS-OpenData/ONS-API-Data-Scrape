@@ -26,5 +26,6 @@ It should then look something like this:
 ![alt tag](/documentation_images/screenshot.png)
 
 From here you can click through the hierarchy as you like, identifying datasets, dimensions and dimension items that could be of use to you.
-For the developer/data scientist types I've scraped the urls for the various datasets and dimensions as well.
+
+For the developer/data scientist we've included urls for the various datasets and dimensions to help get you started.
 
