@@ -11,7 +11,7 @@ The scrape is downloadable as a tiered JSON file. Structure wise, it looks like 
 ![alt tag](/documentation_images/hierarchy.png)
 
 ## How do I use the Scraper?
-For exploratory cases (or if you're jsut curious) it's probably easiest to just download the JSON file on this page. However should you wish to create your own scrape (to get your API key into the urls for example), then navigate to the directory you've downloaded it and the API tools script and use:
+For exploratory cases (or if you're just curious) it's probably easiest to just download the JSON file on this page. However should you wish to create your own scrape (to get your API key into the urls for example), then navigate to the directory you've downloaded it and the API tools script and use:
 
 python WDA_Scraper.py "APIkey"
 
