@@ -21,8 +21,9 @@ With "APIkey2 being the one you are assigned after signing up to the openAPI BET
 Download WDA_Scrape.json to your PC (or use teh script to  just scrape your own)
 View the content with an online JSON viewer. I'd recommend http://jsoneditoronline.org/. You just use the "Open" button at the top of the page. Also, you can shrink down the (pointless in this case) left pane to view the part we want as full screen.
 
-Example:
+It should then look something like this:
 
+![alt tag](/documentation_images/screenshot.png)
 
 From here you can click through the hierarchy as you like, identifying datasets, dimensions and dimension items that could be of use to you.
 For the developer/data scientist types I've scraped the urls for the various datasets and dimensions as well.
