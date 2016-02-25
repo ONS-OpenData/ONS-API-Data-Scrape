@@ -15,7 +15,7 @@ For exploratory cases (or if you're jsut curious) it's probably easiest to just 
 
 python WDA_Scraper.py "APIkey"
 
-With "APIkey2 being the one you are assigned after signing up to the openAPI BETA - https://www.ons.gov.uk/ons/apiservice/web/apiservice/home
+With "APIkey" being the one you are assigned after signing up to the openAPI BETA - https://www.ons.gov.uk/ons/apiservice/web/apiservice/home
 
 
 ## How do I (a non developer) use the JSON file?
