@@ -13,8 +13,10 @@ The scrape is downloadable as a tiered JSON file. Structure wise, it looks like 
 ![alt tag](/documentation_images/hierarchy.png)
 
 ## How do I use the Scraper?
-in most cases it's far easier to just download the JSON file on this page. However should you wish to create your own scrape (to get your API key into the urls for example), then navigate to the directory you've downloaded it and the API tools script and use:
+For exploratory cases (or if you're jsut curious) it's probably easiest to just download the JSON file on this page. However should you wish to create your own scrape (to get your API key into the urls for example), then navigate to the directory you've downloaded it and the API tools script and use:
+
 python WDA_Scraper.py "APIkey"
+
 With "APIkey2 being the one you are assigned after signing up to the openAPI BETA - https://www.ons.gov.uk/ons/apiservice/web/apiservice/home
 
 ## How do I use the JSON file?
