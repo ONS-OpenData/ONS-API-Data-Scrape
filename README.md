@@ -19,8 +19,9 @@ python WDA_Scraper.py "APIkey"
 
 With "APIkey2 being the one you are assigned after signing up to the openAPI BETA - https://www.ons.gov.uk/ons/apiservice/web/apiservice/home
 
-## How do I use the JSON file?
-Download WDA_Scrape.json to your PC (or use teh script to  just scrape your own)
+
+## How do I (a non developer) use the JSON file?
+Download WDA_Scrape.json to your PC (or use the script to  just scrape your own)
 View the content with an online JSON viewer. I'd recommend http://jsoneditoronline.org/. You just use the "Open" button at the top of the page. Also, you can shrink down the (pointless in this case) left pane to view the part we want as full screen.
 
 It should then look something like this:
