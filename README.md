@@ -4,7 +4,7 @@ A json file (and the script to create it) containing context, name, dimensions a
 
 
 ## About
-The idea here is to allow non developers to explore the content on the API without having to wade through code documentation (i.e worry about the how you're going to retrieve the data AFTER you've identified something you need).
+The idea here is to help non developers to explore the content on the API in detail without having to wade through code documentation (i.e worry about the how you're going to retrieve the data AFTER you've identified something you need).
 The scrape is downloadable as a tiered JSON file. Structure wise, it looks like this:
 
 ![alt tag](/documentation_images/hierarchy.png)
@@ -19,7 +19,7 @@ With "APIkey" being the one you are assigned after signing up to the openAPI BET
 
 ## How do I (a non developer) use the JSON file?
 Download WDA_Scrape.json to your PC (or use the script to  just scrape your own)
-View the content with an online JSON viewer. I'd recommend http://jsoneditoronline.org/. You just use the "Open" button at the top of the page. Also, you can shrink down the (pointless in this case) left pane to view the part we want as full screen.
+then view the content with an online JSON viewer. I'd recommend http://jsoneditoronline.org/. You just use the "Open" button at the top of the page. Also, you can shrink down the (pointless in this case) left pane to view the part we want as full screen.
 
 It should then look something like this:
 
