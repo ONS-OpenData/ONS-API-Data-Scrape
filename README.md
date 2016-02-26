@@ -2,7 +2,6 @@
 
 A json file (and the script to create it) containing context, name, dimensions and dimension items for all datasets available via the ONS API service.
 
-NOTE - the webscrape on this page only deals with the Economic and Social datasets. I will be adding the Census datasets in the next few days (written 25/2/2016) as  it'll take a while to scrape given the amount of data involved.
 
 ## About
 The idea here is to allow non developers to explore the content on the API without having to wade through code documentation (i.e worry about the how you're going to retrieve the data AFTER you've identified something you need).
