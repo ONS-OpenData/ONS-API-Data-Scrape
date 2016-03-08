@@ -199,7 +199,11 @@ scrape.update({context:context_scrape(context, key)})
 # Scrape the social context
 context = 'Social'
 scrape.update({context:context_scrape(context, key)})
- 
+
+# Scrape the social context
+context = 'Census'
+scrape.update({context:context_scrape(context, key)})
+
 
 # create a local JSON dump out of the scrape
 with open('WDA_scrape.json', 'w') as fp:
