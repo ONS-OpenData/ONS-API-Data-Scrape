@@ -1,4 +1,4 @@
-NOTE- The datascraper does not currently scsrape the Geographic information from the datasets. I will implement this at some point, but for now just be aware.
+NOTE- The datascraper does not currently scrape the Geographic information from the datasets. I will implement this at some point, but for now just be aware.
 
 # ONS-API-Data-Scrape
 
